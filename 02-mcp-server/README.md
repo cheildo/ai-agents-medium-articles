@@ -1,6 +1,6 @@
 # AI Agents: Build Your First MCP Server
 
-Code for the article "AI Agents: Build Your First MCP Server" by [Cheick Zida](https://medium.com/@cheickzida).
+Code for the article [AI Agents: Build Your First MCP Server](https://medium.com/@cheickzida/ai-agents-build-your-first-mcp-server-7b77f29edf58) by [Cheick Zida](https://medium.com/@cheickzida).
 
 An MCP server for a small online electronics shop, with three tools (`get_order_status`, `check_stock`, `cancel_order`), a resource (the return policy) and a prompt, plus an agent that uses the server through an MCP client.
 
