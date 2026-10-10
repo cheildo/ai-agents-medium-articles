@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "shop": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--directory", "/absolute/path/to/shop-mcp", "python", "shop_server.py"]
+    }
+  }
+}

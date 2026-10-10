@@ -1,0 +1,17 @@
+[project]
+name = "shop-mcp"
+version = "0.1.0"
+description = "Code for the article AI Agents: Build Your First MCP Server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=2.3,<3",
+    "openai>=3.28,<4",
+    "openai-agents>=0.23.1,<0.24",
+]
+
+[dependency-groups]
+dev = [
+    "httpx2>=2.13.1",
+    "pytest>=9.1.1",
+]
