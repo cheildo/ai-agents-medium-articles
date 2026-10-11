@@ -1,6 +1,6 @@
 # AI Agents: Context Engineering for Long-Running Agents
 
-Code for the article AI Agents: Context Engineering for Long-Running Agents by [Cheick Zida](https://medium.com/@cheickzida).
+Code for the article [AI Agents: Context Engineering for Long-Running Agents](https://medium.com/@cheickzida/ai-agents-context-engineering-for-long-running-agents-a4b00a7e072e) by [Cheick Zida](https://medium.com/@cheickzida).
 
 The shop support agent from [02-mcp-server](../02-mcp-server), now with a conversation that lasts across messages and a
 context manager that keeps it small: a token meter, short tool results, policies loaded on demand, and compaction of
