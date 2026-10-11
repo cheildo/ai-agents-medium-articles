@@ -1,0 +1,17 @@
+[project]
+name = "shop-context"
+version = "0.1.0"
+description = "Context engineering for the shop support agent: token meter, tool result trimming, clearing and compaction"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=2.3,<3",
+    "openai>=3.28,<4",
+]
+
+[dependency-groups]
+dev = [
+    "httpx2>=2.13.1",
+    "pytest>=9.1.1",
+    "tiktoken>=0.14,<0.15",
+]
