@@ -1,6 +1,6 @@
 # AI Agents: Make Your Agent Remember Every Customer
 
-Code for the article AI Agents: Make Your Agent Remember Every Customer by [Cheick Zida](https://medium.com/@cheickzida).
+Code for the article [AI Agents: Make Your Agent Remember Every Customer](https://medium.com/@cheickzida/ai-agents-make-your-agent-remember-every-customer-59a05f80ddbb) by [Cheick Zida](https://medium.com/@cheickzida).
 
 The shop support agent from [03-context-engineering](../03-context-engineering), now with long-term memory: after each
 chat a small LLM decides what to add, update or delete, SQLite keeps the memories per customer, the agent recalls them
