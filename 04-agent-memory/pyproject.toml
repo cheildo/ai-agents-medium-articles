@@ -1,0 +1,17 @@
+[project]
+name = "shop-memory"
+version = "0.1.0"
+description = "Long-term memory for the shop support agent: SQLite store, extraction after each chat, recall and forget"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=2.3,<3",
+    "openai>=3.29,<4",
+    "pydantic>=2.11,<3",
+]
+
+[dependency-groups]
+dev = [
+    "httpx2>=2.13.1",
+    "pytest>=9.1.1",
+]
