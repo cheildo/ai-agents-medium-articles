@@ -1,4 +1,4 @@
-# AI Agents tutorials
+# AI Agents medium articles
 
 Code for my Medium series about building AI agents, for engineers who are learning AI. Every folder is a separate project that matches one article.
 
